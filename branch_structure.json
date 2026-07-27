@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "rhemy-arc"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "rhemy-arc": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "rhemy-arc"
+  ]
+}
